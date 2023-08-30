@@ -1,5 +1,5 @@
-function SelectedContact ({SelectedContactId}) {
-    return <div>Selected Contact View</div>
+function SelectedContact({selectedContactId}) {
+    return <div></div>
 };
 
-export default SelectedContact
+export default SelectedContact;
